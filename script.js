@@ -12,7 +12,7 @@ function showScore() {
     document.getElementById('score').innerHTML = "Score = Congragulations all your scores are perfect"
     }
     else{
-        document.getElementById('score').innerHTML = "Score = Check again"
+        document.getElementById('score').innerHTML = "Score = Check again (Refresh the page before filling again!)"
     }
 
 }
