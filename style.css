@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+.home{
+    width: 900px;
+    height: 0px;
+    background-color: rgb(39, 39, 39);
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+
+.home h1{
+    text-align: center;
+    padding: 30px;
+}
+
+.btn{
+    padding: 7px;
+    background-color: rgb(255, 199, 199);
+    width: 130px;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(39, 39, 39);
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    border-radius: 8px;
+    margin: auto;
+}
+.quiz{
+    width: 1200px;
+    height: 600px;
+    background-color: rgb(39, 39, 39);
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+#main-heading{
+    text-align: center;
+    padding: 30px;
+}
+.quiz-start h2{
+    padding: 12px;
+}
+
+input{
+    padding: 10px;
+    font-size: 20px;
+    margin: 20px;
+    border-bottom: 3px solid white;
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+}
+#score{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.page-2{
+    width: 1200px;
+    height: 600px;
+    background-color: rgb(39, 39, 39);
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 30px;
+}
+.btn-2{
+    padding: 7px;
+    background-color: rgb(255, 199, 199);
+    width: 130px;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(39, 39, 39);
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: -100px;
+}
